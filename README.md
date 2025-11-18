@@ -21,8 +21,7 @@ Optionally, a ticker dropdown can be used to choose which company data is shown 
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url> react-mosaic-test-task
-   cd react-mosaic-test-task
+   git clone https://github.com/Leonardo1912/react-mosaic-test-task.git
    ```
 
 2. **Install dependencies**
